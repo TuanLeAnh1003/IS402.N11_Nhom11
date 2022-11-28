@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thi_xa": "Thị xã Bình Minh"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.819167,
+                    "latitude": 10.066933
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thi_xa": "Thị xã Cai Lậy"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.101389,
+                    "latitude": 10.405556
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thi_xa": "Thị xã Gò Công"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.66,
+                    "latitude": 10.36
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thi_xa": "Thị xã Giá Rai"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.510833,
+                    "latitude": 9.271667
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thi_xa": "Thị xã Ngã Năm"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.597222,
+                    "latitude": 9.565556
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thi_xa": "Thị xã Vĩnh Châu"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.980593,
+                    "latitude": 9.323783
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thi_xa": "Thị xã Long Mỹ"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.570833,
+                    "latitude": 9.681389
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thi_xa": "Thị xã Duyên Hải"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.493056,
+                    "latitude": 9.634722
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thi_xa": "Thị xã Tân Châu"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.24251,
+                    "latitude": 10.800472
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thi_xa": "Thị xã Kiến Tường"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.937222,
+                    "latitude": 10.778611
+                }
+            }
+        }
+    ]
+}

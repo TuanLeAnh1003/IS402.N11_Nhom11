@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_cau": "Mỹ Thuận"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.909972,
+                    "latitude": 10.277556
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_cau": "Cần Thơ"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.808639,
+                    "latitude": 10.031653
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_cau": "Rạch Miễu"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.344,
+                    "latitude": 10.337
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_cau": "Hàm Luông"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.33453989741383,
+                    "latitude": 10.235350273696765
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_cau": "Năm Căn"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 104.96846048391185,
+                    "latitude": 8.73547938141918
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_cau": "Cổ Chiên"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.30685992624878,
+                    "latitude": 10.029689749904074
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_cau": "Mỹ Lợi"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.63624132439618,
+                    "latitude": 10.468297949700938
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_cau": "Vàm Cống"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.50392984817749,
+                    "latitude": 10.317135919486224
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_cau": "Cao Lãnh"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.65212731276192,
+                    "latitude": 10.415295981761071
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_cau": "Vĩnh Ngươn"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.11089019741816,
+                    "latitude": 10.716902026501778
+                }
+            }
+        }
+    ]
+}

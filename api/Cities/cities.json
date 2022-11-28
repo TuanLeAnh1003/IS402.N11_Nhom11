@@ -1,0 +1,239 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Vĩnh Long"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.975312,
+                    "latitude": 10.25499
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Mỹ Tho"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.366944,
+                    "latitude": 10.352222
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Bạc Liêu"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.751667,
+                    "latitude": 9.268056
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Sóc Trăng"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.9,
+                    "latitude": 9.6
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Vị Thanh"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.413889,
+                    "latitude": 9.754167
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Ngã Bảy"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.760833,
+                    "latitude": 9.842778
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Bến Tre"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 10.237197,
+                    "latitude": 106.374829
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Trà Vinh"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.344167,
+                    "latitude": 9.9525
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Cà Mau"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.150862,
+                    "latitude": 9.176205
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Long Xuyên"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.425833,
+                    "latitude": 10.372778
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Châu Đốc"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.117887,
+                    "latitude": 10.709046
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Tân An"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.22,
+                    "latitude": 10.52
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Cao Lãnh"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.639444,
+                    "latitude": 10.461667
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Hồng Ngự"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.366404,
+                    "latitude": 10.835439
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Sa Đéc"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.767778,
+                    "latitude": 10.290833
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Rạch Giá"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.105556,
+                    "latitude": 10.026389
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Hà Tiên"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 104.507222,
+                    "latitude": 10.389167
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_thanh_pho": "Thành phố Phú Quốc"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 104.010467,
+                    "latitude": 10.287154
+                }
+            }
+        }
+    ]
+}

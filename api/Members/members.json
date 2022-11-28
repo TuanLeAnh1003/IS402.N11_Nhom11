@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_member": "Lê Anh Tuấnnn",
+                "image" : "../../assets/icon/19520331-LeAnhTuan.jpg"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.6421550127657,
+                    "latitude": 10.847032358165691
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_member": "Thế Thiện nèeee",
+                "image" : "../../assets/icon/thien.jpg"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.83499786810545,
+                    "latitude": 10.838679246680265
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_member": "Châu Chấuuu",
+                "image" : "../../assets/icon/ChauChau.jpg"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.44498170120302,
+                    "latitude": 10.38292584863486
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_member": "Kamen Riderr",
+                "image" : "../../assets/icon/kamen.jpg"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.8047991,
+                    "latitude": 10.8843792
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_member": "Đức cớpp",
+                "image" : "../../assets/icon/duc.jpg"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.72123465866018,
+                    "latitude": 10.827768848508008
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_member": "An Ngựaaa",
+                "image" : "../../assets/icon/duyanduyngua.jpg"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.69046029694482,
+                    "latitude": 10.81937821660385
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_member": "Hưng Phòoo",
+                "image" : "../../assets/icon/hung.jpg"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.65063901855692,
+                    "latitude": 10.840804839332614
+                }
+            }
+        }
+    ]
+}

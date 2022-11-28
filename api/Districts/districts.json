@@ -1,0 +1,1358 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Bình Tân"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.733056,
+                    "latitude": 10.181667
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Long Hồ"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.929722,
+                    "latitude": 10.232778
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Mang Thít"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.086944,
+                    "latitude": 10.182778
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Tam Bình"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.9675,
+                    "latitude": 10.066111
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Trà Ôn"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.965556,
+                    "latitude": 9.988889
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Vũng Liêm"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.176389,
+                    "latitude": 10.058889
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Cái Bè"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.933611,
+                    "latitude": 10.405833
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Châu Thành"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.284167,
+                    "latitude": 10.424167
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Chợ Gạo"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.460781,
+                    "latitude": 10.35398
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Gò Công Đông"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.75,
+                    "latitude": 10.35
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Gò Công Tây"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.583889,
+                    "latitude": 10.331944
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Tân Phú Đông"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.65,
+                    "latitude": 10.25
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Tân Phước"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.201389,
+                    "latitude": 10.505556
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Đông Hải"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.426389,
+                    "latitude": 9.041389
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Hòa Bình"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.6,
+                    "latitude": 9.2
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Hồng Dân"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.4,
+                    "latitude": 9.5
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Phước Long"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.4,
+                    "latitude": 9.4
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Vĩnh Lợi"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.642222,
+                    "latitude": 9.336111
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Châu Thành"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.8978,
+                    "latitude": 9.7056
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Cù Lao Dung"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.15,
+                    "latitude": 9.6833
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Kế Sách"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.956944,
+                    "latitude": 9.825
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Long Phú"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106,
+                    "latitude": 9.633333
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Mỹ Tú"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.748333,
+                    "latitude": 9.5725
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Mỹ Xuyên"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.9,
+                    "latitude": 9.6
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Thạnh Trị"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.7625,
+                    "latitude": 9.428333
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Trần Đề"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.192119,
+                    "latitude": 9.52197
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Quận Bình Thủy"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.721389,
+                    "latitude": 10.061667
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Quận Cái Răng"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.782222,
+                    "latitude": 9.999167
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Quận Ninh Kiều"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.759444,
+                    "latitude": 10.032778
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Quận Ô Môn"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.630833,
+                    "latitude": 10.124444
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Quận Thốt Nốt"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.533889,
+                    "latitude": 10.239722
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Cờ Đỏ"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.496111,
+                    "latitude": 10.046667
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Phong Điền"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.659722,
+                    "latitude": 9.999167
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Thới Lai"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.661111,
+                    "latitude": 9.999167
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Vĩnh Thạnh"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.379167,
+                    "latitude": 10.193056
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Châu Thành"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.810278,
+                    "latitude": 9.922778
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Châu Thành A"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.641944,
+                    "latitude": 9.930556
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Long Mỹ"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.423333,
+                    "latitude": 9.637778
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Phụng Hiệp"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.724722,
+                    "latitude": 9.788889
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Vị Thủy"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.536944,
+                    "latitude": 9.801389
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Ba Tri"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.596667,
+                    "latitude": 10.045556
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Bình Đại"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.7025,
+                    "latitude": 10.186667
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Châu Thành"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.351667,
+                    "latitude": 10.303056
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Chợ Lách"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.13,
+                    "latitude": 10.264722
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Giồng Trôm"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.511667,
+                    "latitude": 10.17
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Mỏ Cày Bắc"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.27897596411015,
+                    "latitude": 10.167793072035598
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Mỏ Cày Nam"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.334722,
+                    "latitude": 10.133889
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Thạch Phú"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.514221,
+                    "latitude": 9.947983
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Càng Long"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.214444,
+                    "latitude": 9.971667
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Cầu kè"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.061667,
+                    "latitude": 9.872222
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Tiểu Cần"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.196111,
+                    "latitude": 9.811389
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Châu Thành"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.343611,
+                    "latitude": 9.877778
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Cầu Ngang"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.448333,
+                    "latitude": 9.802778
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Trà Cú"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.261389,
+                    "latitude": 9.689722
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Duyên Hải"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.440977,
+                    "latitude": 9.608936
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Cái Nước"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.011611,
+                    "latitude": 8.937847
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Đầm Dơi"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.265556,
+                    "latitude": 8.963333
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Năm Căn"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 104.994178,
+                    "latitude": 8.759858
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Ngọc Hiển"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 104.966111,
+                    "latitude": 8.679722
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Phú Tân"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 104.8875,
+                    "latitude": 8.891667
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Thới Bình"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.1,
+                    "latitude": 9.35
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Trần Văn Thời"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 104.916944,
+                    "latitude": 9.083611
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện U Minh"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 104.917,
+                    "latitude": 9.417
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện An Phú"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.086667944,
+                    "latitude": 10.871389
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Châu Phú"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.230833,
+                    "latitude": 10.573056
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Châu Thành"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.384444,
+                    "latitude": 10.432778
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Chợ Mới"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.403056,
+                    "latitude": 10.546111
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Phú Tân"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.355301,
+                    "latitude": 10.581325
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Thoại Sơn"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.265723,
+                    "latitude": 10.2622
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Tịnh Biên"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 104.973056,
+                    "latitude": 10.540833
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Tri Tôn"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105,
+                    "latitude": 10.416667
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Bến Lức"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.43,
+                    "latitude": 10.66
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Thu Thừa"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.2847,
+                    "latitude": 10.6464
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Cần Giuộc"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.643056,
+                    "latitude": 10.578611
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Cần Đước"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.609167,
+                    "latitude": 10.539167
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Châu Thành"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.5,
+                    "latitude": 10.464444
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Tân Trụ"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.26,
+                    "latitude": 10.64
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Đức Hòa"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.399444,
+                    "latitude": 10.884444
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Đức Huệ"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.263333,
+                    "latitude": 10.865833
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Tân Thạnh"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.96576,
+                    "latitude": 10.60351
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Mộc Hóa"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 106.054444,
+                    "latitude": 10.724167
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Vĩnh Hưng"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.75,
+                    "latitude": 10.91
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Tân Hưng"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.660833,
+                    "latitude": 10.837222
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Cao Lãnh"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.690604,
+                    "latitude": 10.440686
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Châu Thành"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.8238,
+                    "latitude": 10.22543
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Hồng Ngự"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.244758,
+                    "latitude": 10.813768
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Lai Vung"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.657301,
+                    "latitude": 10.237475
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Lấp Vò"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.5375,
+                    "latitude": 10.377778
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Tam Nông" 
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.56,
+                    "latitude": 10.671389
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Tân Hồng" 
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.426404,
+                    "latitude": 10.865439
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Thanh Bình" 
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.466944,
+                    "latitude": 10.583056
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Tháp Mười" 
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.848651,
+                    "latitude": 10.520498
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện An Biên" 
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.062392,
+                    "latitude": 9.811978
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện An Minh" 
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 104.945522,
+                    "latitude": 9.611054
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Châu Thành" 
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.159066,
+                    "latitude": 9.901317
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Giang Thành" 
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 104.632228,
+                    "latitude": 10.514919
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Giồng Riềng" 
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.375,
+                    "latitude": 9.9125
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Gò Quao" 
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.277496,
+                    "latitude": 9.727561
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Hòn Đất"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 104.927222,
+                    "latitude": 10.187404
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Kiên Hải"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 104.848154,
+                    "latitude": 9.971486
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Kiên Lương"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 104.588497,
+                    "latitude": 10.24213
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Tân Hiệp"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.279444,
+                    "latitude": 10.110833
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện U Minh Thượng"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.12266,
+                    "latitude": 9.6741
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ten_huyen": "Huyện Vĩnh Thuận" 
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": {
+                    "longitude": 105.258611,
+                    "latitude": 9.5075
+                }
+            }
+        }
+    ]
+}
+        
